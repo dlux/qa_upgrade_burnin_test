@@ -38,12 +38,12 @@ WE NEED FROM YOU:
        *<URL2>*
        *...*
 
-**TO-BE AUTOMATED**
+   **TO-BE AUTOMATED**
 
-  * Scenario Description: *E.g. Verify nova api endpoints are up and running*
-  * Pre-requisites: *E.g. Get nova-api endpoints*
-  * Procedure and verification point: *E.g. Run A, Run B, Verify X*
-  * Additional Resources/ Notes: *E.g. Any additional information you consider relevant*
+     * Scenario Description: *E.g. Verify nova api endpoints are up and running*
+     * Pre-requisites: *E.g. Get nova-api endpoints*
+     * Procedure and verification point: *E.g. Run A, Run B, Verify X*
+     * Additional Resources/ Notes: *E.g. Any additional information you consider relevant*
 
 
 2. What tests would your team wanted executed after an upgrade?
