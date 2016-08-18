@@ -33,6 +33,8 @@ WE NEED FROM YOU:
      * OTHER
    
        *[tempest_plugin| private_repo| rally|etc]*
+       
+       
 
        *<URL1>*
        *<URL2>*
@@ -58,3 +60,12 @@ WE NEED FROM YOU:
 
         *tempest.api.compute.servers.test_servers.*
 
+     * OTHER
+   
+       *[tempest_plugin| private_repo| rally|etc]*
+
+       *How it is executed*
+
+       *<URL1>*
+       *<URL2>*
+       *...*
