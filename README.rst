@@ -16,11 +16,12 @@ About OSIC QA 3rd Party CI for Rolling Upgrades
 7. CI will run specific test cases after the upgrade  <NEED YOUR INFO HERE>
 
 WE NEED FROM YOU:
-*****************
+#################
 
-**What tests would your team want executed during an upgrade?**
+What tests would your team want executed during an upgrade?
+***********************************************************
 
-* ALREADY AUTOMATED
+**ALREADY AUTOMATED**
 
    * TEMPEST
 
@@ -33,18 +34,24 @@ WE NEED FROM YOU:
    
      *[tempest_plugin| private_repo| rally|etc]*
 
-     *<URL>*
+     *<URL1>*
 
-* TO-BE AUTOMATED
+     *<URL2>*
+
+     *...*
+
+**TO-BE AUTOMATED**
 
   * Scenario Description: *E.g. Verify nova api endpoints are up and running*
   * Pre-requisites: *E.g. Get nova-api endpoints*
   * Procedure and verification point: *E.g. Run A, Run B, Verify X*
   * Additional Resources/ Notes: *E.g. Any additional information you consider relevant*
 
-**What tests would your team wanted executed after an upgrade?**
 
-* ALREADY AUTOMATED
+What tests would your team wanted executed after an upgrade?
+***********************************************************
+
+**ALREADY AUTOMATED**
 
    * TEMPEST
 
