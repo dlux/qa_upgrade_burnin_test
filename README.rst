@@ -18,27 +18,25 @@ About OSIC QA 3rd Party CI for Rolling Upgrades
 WE NEED FROM YOU:
 #################
 
-What tests would your team want executed during an upgrade?
+1. What tests would your team want executed during an upgrade?
 ***********************************************************
 
-**ALREADY AUTOMATED**
+   **ALREADY AUTOMATED**
 
-   * TEMPEST
+     * TEMPEST
 
-     *E.g.*
-      *tempest.api.compute.servers.test_servers.*
+       *E.g.*
+        *tempest.api.compute.servers.test_servers.*
 
-      *tempest.api.compute.servers.test_servers.*
+        *tempest.api.compute.servers.test_servers.*
 
-   * OTHER
+     * OTHER
    
-     *[tempest_plugin| private_repo| rally|etc]*
+       *[tempest_plugin| private_repo| rally|etc]*
 
-     *<URL1>*
-
-     *<URL2>*
-
-     *...*
+       *<URL1>*
+       *<URL2>*
+       *...*
 
 **TO-BE AUTOMATED**
 
@@ -48,14 +46,15 @@ What tests would your team want executed during an upgrade?
   * Additional Resources/ Notes: *E.g. Any additional information you consider relevant*
 
 
-What tests would your team wanted executed after an upgrade?
+2. What tests would your team wanted executed after an upgrade?
 ***********************************************************
 
-**ALREADY AUTOMATED**
+   **ALREADY AUTOMATED**
 
-   * TEMPEST
+     * TEMPEST
 
-     *E.g.*
-      *tempest.api.compute.servers.test_servers.*
+       *E.g.*
+        *tempest.api.compute.servers.test_servers.*
 
-      *tempest.api.compute.servers.test_servers.*
+        *tempest.api.compute.servers.test_servers.*
+
